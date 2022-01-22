@@ -27,7 +27,7 @@ void alertInCelcius(float farenheit) {
         // let us keep a count of failures to report
         // Now, this code doesn't count failures!
         // Added a test below to catch this bug. Altered the stub above.
-        alertFailureCount +=1;
+        alertFailureCount +=0;
     }
 }
 
