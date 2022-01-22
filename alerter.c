@@ -28,6 +28,8 @@ void alertInCelcius(float farenheit) {
         // Now, this code doesn't count failures!
         // Added a test below to catch this bug. Altered the stub above.
         alertFailureCount +=0;
+        assert(alert_failure_count != 0)
+      
     }
 }
 
